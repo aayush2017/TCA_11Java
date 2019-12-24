@@ -1,0 +1,5 @@
+Q.1: Write a program to remove duplicates from array in Java?
+
+Q.2: Find the two repeating elements in a given array?
+
+Q.3: Program to print the duplicate elements of an array?
