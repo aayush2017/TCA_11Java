@@ -12,7 +12,7 @@ class RepeatElement
             { 
                 if (a[i] == a[j])
 				{					
-			System.out.println(a[i]);
+			     System.out.println(a[i]);
 				}					
             } 
         } 
